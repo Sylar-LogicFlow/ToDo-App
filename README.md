@@ -1,6 +1,4 @@
-تمام يا معلم! هعملهالك احترافية! 🔥
-
-markdown# 📝 ToDo App
+# 📝 ToDo App
 
 A modern and intuitive To-Do List application built with React.js to help you manage your daily tasks efficiently and stay organized.
 
@@ -132,9 +130,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 ## ⭐ Show Your Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
-
 ---
 
 **Made with ❤️ using React.js**
